@@ -1,0 +1,10 @@
+const List=[
+    {name:"sutrafel",age:27,position:"Software engineer"},
+    {name:"sutrafel",age:37,position:"electrical engineer"},
+    {name:"sutrafel",age:17,position:"Mechanical engineer"},
+    {name:"sutrafel",age:30,position:"hydrolic engineer"},
+    {name:"sutrafel",age:22,position:"computer engineer"},
+    {name:"sutrafel",age:21,position:"automotive engineer"},
+    {name:"sutrafel",age:27,position:"Software engineer"},
+]
+export default List
