@@ -1,12 +1,11 @@
 
 import React from 'react';
-import Grid1 from './Tailwind/Grid1';
-
+import Lab1 from './Tailwind/Flex/lab1';
 function App() {
 
   return (
     <>
-      <Grid1 />
+        <Lab1 />
     </>
   )
 }
